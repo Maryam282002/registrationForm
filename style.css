@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./images/pexels-dominika-roseclay-1982485.jpg);
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+h1{
+    margin-top: 2%;
+}
+h1, p{
+    text-align: center;
+   
+}
+fieldset{
+    width: 47vw;
+    background-color: rgb(255, 182, 193);
+    border:1px solid rgb(227, 11, 92) ;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 2%;
+}
+.frm{
+    height: 40px;
+    border:1px solid rgb(227, 11, 92) ;
+    border-radius: 15px;
+    width: 40vw;
+}
+.lbl, .frm{
+    margin-left: 5%;
+}
+.lbl{
+    margin-bottom: 2%;
+}
+hr{
+    margin-top: 3%;
+    width: 42vw;
+    margin-left: 4.5%;
+    margin-bottom: 2%;
+}
+.oi{
+    margin-top: 2%;
+    margin-left: 4%;
+}
+.up{
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-bottom: 1%;
+}
+.frm1{
+    height: 40px;
+    border:1px solid rgb(227, 11, 92) ;
+    border-radius: 15px;
+    width: 20vw;
+    margin-left: 5%;
+}
+.txta{
+    width: 30vw;
+    border: 1px solid rgb(227, 11, 92);
+    border-radius: 15px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.but{
+    background-color: rgb(227, 11, 92);
+    width: 10vw;
+    border: none;
+    border-radius: 15px;
+    height: 5vh;
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+footer{
+    margin-top: 2%;
+}
